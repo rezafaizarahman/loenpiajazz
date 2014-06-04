@@ -66,8 +66,6 @@ a {
     padding: 30px 0;
 }
 .navbar-fixed-top .navbar-brand {
-    /*padding: 0 30px;*/
-    /*padding-top: 30px;*/
     padding-bottom: 30px;
 }
 .logo {
@@ -82,7 +80,7 @@ a {
 }
 .tulisan {
     text-align: left;
-    margin: 0px 20px;
+    margin: 10px 20px;
 }
 .galeri {
     padding: 40px 20px;
@@ -108,6 +106,16 @@ a {
     width: 100%;
     height: 100%;
 }
+.penampil a {
+    padding: 20px 20px;
+    font-size: 18px;
+    color: #737476 !important;
+}
+
+.penampildalam {
+    padding: 10px 0px;
+}
+
 @media (max-width: 767px) {
     body {
         margin-top: 50px;
