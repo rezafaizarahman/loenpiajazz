@@ -4,9 +4,11 @@
     font-family: Raleway, Open Sans, Droid Sans;
     /*padding-top: 90px;*/
     margin-top: 110px;
+    line-height: 2em;
 }
 h1 h2 h3 h4 h5 {
     font-family:'Raleway', cursive;
+
 }
 h2 {
     color: #ee3338;
@@ -86,7 +88,7 @@ a {
     padding: 40px 20px;
 }
 .pendukung {
-    padding: 20px;
+    padding: 40px;
 }
 .footer {
     padding: 20px 40px;
@@ -111,29 +113,23 @@ a {
     font-size: 18px;
     color: #737476 !important;
 }
-
 .penampildalam {
     padding: 10px 0px;
 }
-
 .centerpills {
     display: inline-block;
 }
-
 .pills-merah a {
     color: #EE3338;
 }
-
 .jadwal-merah {
     /*border-radius: 5px;*/
     background-color: #EE3338;
     color: #fff;
 }
-
 .merah {
     color: #EE3338;
 }
-
 @media (max-width: 767px) {
     body {
         margin-top: 50px;
